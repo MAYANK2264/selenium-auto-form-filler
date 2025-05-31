@@ -1,0 +1,28 @@
+## .NET build files
+bin/
+obj/
+
+## VS Code directory
+.vscode/
+
+## Visual Studio files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+## Rider
+.idea/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Logs
+*.log
+
+## Local History
+.localhistory/ 
