@@ -19,7 +19,10 @@ This project demonstrates a robust, scalable approach to web form automation tes
 ### Video Demonstration
 Watch our automation test in action:
 
-[![Form Automation Demo](SeleniumDemo/demo.mp4)](SeleniumDemo/demo.mp4)
+<video src="SeleniumDemo/demo.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
+You can also download the video directly from the [SeleniumDemo folder](SeleniumDemo/demo.mp4).
 
 ### What the Demo Shows
 1. **Initial Setup** (0:00-0:05)
