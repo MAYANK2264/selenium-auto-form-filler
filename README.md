@@ -36,7 +36,6 @@ You can also download the video directly from the [SeleniumDemo folder](Selenium
    - Selecting male gender
    - Entering email "kmmayank08@gmail.com"
    - Selecting cricket hobby
-   - Entering about section text
 
 3. **Verification** (0:20-0:25)
    - Showing all filled fields
