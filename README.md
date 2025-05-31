@@ -19,14 +19,12 @@ This project demonstrates a robust, scalable approach to web form automation tes
 ### Video Demonstration
 Watch our automation test in action:
 
-https://user-images.githubusercontent.com/MAYANK2264/selenium-auto-form-filler/assets/demo.mp4?raw=true
+https://github.com/MAYANK2264/selenium-auto-form-filler/raw/master/SeleniumDemo/demo.mp4
 
-You can also [download the video directly](SeleniumDemo/demo.mp4).
-
-**Note**: If the video above doesn't play, you can:
-1. Click the download link above
-2. View it in the repository under [SeleniumDemo/demo.mp4](SeleniumDemo/demo.mp4)
-3. Clone the repository and view it locally:
+**Alternative viewing options**:
+1. [Direct download link](SeleniumDemo/demo.mp4)
+2. View in repository: [SeleniumDemo/demo.mp4](SeleniumDemo/demo.mp4)
+3. Clone and view locally:
 ```bash
 git clone https://github.com/MAYANK2264/selenium-auto-form-filler.git
 cd selenium-auto-form-filler
