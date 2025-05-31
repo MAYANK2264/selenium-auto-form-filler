@@ -33,7 +33,6 @@ Watch our automation test in action:
    - Selecting male gender
    - Entering email "kmmayank08@gmail.com"
    - Selecting cricket hobby
-   - Entering about section text
 
 3. **Verification** (0:20-0:25)
    - Showing all filled fields
